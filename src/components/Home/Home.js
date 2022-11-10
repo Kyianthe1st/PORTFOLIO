@@ -29,14 +29,6 @@ function Home() {
                 <Type />
               </div>
             </Col>
-
-            <Col md={5} style={{ paddingBottom: 20 }}>
-              <img
-                src={homeLogo}
-                alt="home pic"
-                className="img-fluid"
-                style={{ maxHeight: "237px" }}
-              />
             </Col>
           </Row>
         </Container>
