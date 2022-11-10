@@ -52,11 +52,10 @@ function NavBar() {
                 onClick={() => updateExpanded(false)}
               >
                 <AiOutlineUser style={{ marginBottom: "2px" }} /> About
-              </Nav.Link>
-            </Nav.Item>
-          </Nav>
-        </Navbar.Collapse>
-      </Container>
+             </Nav.Link>
+           </Nav.Item>
+         </Nav>
+      </Navbar.Collapse>
     </Navbar>
   );
 }
