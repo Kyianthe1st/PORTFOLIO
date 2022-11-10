@@ -20,19 +20,28 @@ function Home() {
                 </span>
               </h1>
 
-              <h1 className="heading-name">
+                    <h1 className="heading-name">
                 I'M
-                <strong className="main-name"> Xanderr Lee</strong>
+                <strong className="main-name"> XANDERR LEE</strong>
               </h1>
 
               <div style={{ padding: 50, textAlign: "left" }}>
                 <Type />
               </div>
             </Col>
+
+            <Col md={5} style={{ paddingBottom: 20 }}>
+              <img
+                src={homeLogo}
+                alt="home pic"
+                className="img-fluid"
+                style={{ maxHeight: "450px" }}
+              />
+            </Col>
           </Row>
         </Container>
       </Container>
-      <Home2/>
+      <Home2 />
     </section>
   );
 }
