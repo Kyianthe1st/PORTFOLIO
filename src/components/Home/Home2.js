@@ -24,7 +24,7 @@ function Home2() {
               <br />
               <br />I like
               <i>
-                <b className="purple">Javascript and Python. </b>
+                <b className="purple"> Javascript and Python. </b>
               </i>
               <br />
               <br />
