@@ -74,7 +74,7 @@ function Home2() {
                 >
                   <AiFillGithub />
                   </a>
-               </i>
+              </li>
             </ul>
           </Col>
         </Row>
