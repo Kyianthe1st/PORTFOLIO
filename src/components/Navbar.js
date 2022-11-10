@@ -37,7 +37,6 @@ function NavBar() {
       className={navColour ? "sticky" : "navbar"}
        >
         
-       </Navbar.Toggle>
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="ms-auto" defaultActiveKey="#home">
             <Nav.Item>
