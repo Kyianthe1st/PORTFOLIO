@@ -73,7 +73,8 @@ function Home2() {
                   className="icon-colour  home-social-icons"
                 >
                   <AiFillGithub />
-               </a>
+                  </a>
+               </i>
             </ul>
           </Col>
         </Row>
